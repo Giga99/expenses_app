@@ -1,1 +1,1 @@
-Expensess app
+Expenses app
